@@ -60,15 +60,15 @@ public:
 
 int main() {
     // Task 4: Two student objects
-    Student s1("Asiya", 20, 1, 3.4);
-    Student s2("Maryam", 21, 2, 3.8);
+    Student s1("Zayan", 20, 1, 3.4);
+    Student s2("Abbas", 21, 2, 3.8);
 
     cout << "Student Information:" << endl;
     s1.display();
     s2.display();
 
     // Task 3: Teacher object
-    Teacher t1("Farayal", 25, "software construction", 75000);
+    Teacher t1("Ahmad", 25, "software ", 85000);
 
     cout << "\nTeacher Information:" << endl;
     t1.display();
